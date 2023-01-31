@@ -1,0 +1,31 @@
+header {font-size: 16px;
+text-align: center;
+line-height: 14mm;
+border-style:outset;
+border-inline-color: gray;
+border-block-color: rgb(10, 10, 61);
+border-width: 3mm;
+color: gray;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.prodct {
+          text-align: center;
+          font-size: 24px;
+          color: rgb(124, 99, 34);
+          line-height:3cm;
+}         
+
+
+head {
+          text-align: center;
+}
+
+
+
+h3 {
+          color: darkblue;
+          font-size: larger;
+          line-height: normal;
+          
+}
